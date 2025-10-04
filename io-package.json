@@ -71,6 +71,7 @@
         "adminUI": {
             "config": "json"
         },
+        "stopTimeout": 30000,
         "dependencies": [
             {
                 "js-controller": ">=6.0.11"
